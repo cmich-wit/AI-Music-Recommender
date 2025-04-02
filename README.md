@@ -1,7 +1,3 @@
-Here’s a professional README file tailored for your Women in Technology (WiT) organization to accompany the two files for your April 2 and April 9 presentations:
-
----
-
 # 🎶 AI-Powered Mood-Based Music Recommender
 
 **Last Updated:** April 2, 2025  
@@ -14,8 +10,6 @@ Users can interact with the app through a friendly **Streamlit interface**, allo
 
 ## 🎯 Purpose
 This project was created to demonstrate the intersection of **AI, sentiment analysis**, and **user-centered design** during the WiT April events. It serves as a beginner-friendly yet impactful example of applying machine learning in creative, real-world scenarios.
-
----
 
 ## 🧠 Features
 
@@ -32,8 +26,6 @@ This project was created to demonstrate the intersection of **AI, sentiment anal
 - Intuitive interface for users to input emotions via text or image.
 - Real-time mood detection and playlist recommendation.
 
----
-
 ## 📁 Files
 
 ### `ai_music_recommender_full.py`
@@ -45,8 +37,6 @@ This project was created to demonstrate the intersection of **AI, sentiment anal
 - **Work-in-progress version** of the same project.
 - Includes code structure and placeholder areas marked as `TODO`.
 - Used as a teaching example to walk through the development process step-by-step during the April 2 presentation.
-
----
 
 ## 🔧 Requirements
 
@@ -62,8 +52,6 @@ Install dependencies with:
 pip install streamlit tensorflow nltk opencv-python pillow
 ```
 
----
-
 ## 🚀 Running the App
 
 To launch the Streamlit app:
@@ -72,19 +60,11 @@ To launch the Streamlit app:
 streamlit run ai_music_recommender_full.py
 ```
 
----
-
 ## 📌 Notes
 - Ensure that the **`mobilenetv2_emotion.h5`** pre-trained model file is present in the same directory. This model is a placeholder and should be replaced with a trained emotion detection model.
 - The VADER lexicon will be downloaded at runtime using `nltk.download('vader_lexicon')`.
-
----
 
 ## 🧑‍💻 Author & Credits
 
 Created and presented by the Women in Technology (WiT) organization at **Central Michigan University**.  
 This project is part of our initiative to **make AI accessible**, **encourage experimentation**, and **inspire innovation** among underrepresented groups in tech.
-
----
-
-Would you like me to turn this into a Markdown file (`README.md`) for download?
