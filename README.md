@@ -65,6 +65,6 @@ streamlit run ai_music_recommender_full.py
 - The VADER lexicon will be downloaded at runtime using `nltk.download('vader_lexicon')`.
 
 ## 🧑‍💻 Author & Credits
-
+Author: Edom Belayneh
 Created and presented by the Women in Technology (WiT) organization at **Central Michigan University**.  
 This project is part of our initiative to **make AI accessible**, **encourage experimentation**, and **inspire innovation** among underrepresented groups in tech.
